@@ -1,18 +1,18 @@
 # Aurora Notes
 
-This is a collection of what I *think* I know about Aurora Ave, based on personal experience, conversations with people in the neighborhood, and conversations with people from organizations like REST, The More We Love, Green Light Project, Seattle administration etc.
+This is a collection of what info about human trafficking issues Aurora Ave, based on personal experience, conversations with people in the neighborhood, and conversations with people from organizations like REST, The More We Love, Green Light Project, Seattle administration etc.
 
-I'm just one person. There are mistakes and misconceptions here but I don't know what they are yet! My perspective has and will change over time. I should've started writing this stuff down sooner. What's currently listed here is just some of what I've heard/learned!.
+There are mistakes and misconceptions here! My perspective has and will change over time. What's currently listed here is just some of the relevant info.
 
 If you have more perspective to add, I'd love to hear from you! Here's an auto-generated anonymous email you can use to contact me: shy.worm9956@fastmail.com  If the email gets too much spam/hate/etc I may turn it off.
 
 ## Timeline
 
-- 1962 (Seattle World's Fair)[https://en.wikipedia.org/wiki/Century_21_Exposition] led to a spike in urban developement and motels that were then underutilized after the Fair
+- 1962 [Seattle World's Fair](https://en.wikipedia.org/wiki/Century_21_Exposition) led to a spike in urban developement and motels that were then underutilized after the Fair
     - Led to increased sex work (from the street to the motels)
 - 2018 CESTA/FOSTA passed
-    - 20XX Backpages, Craig's List personal ads, etc shut down.
-    - Motels closed.
+    - Backpages, Craig's List personal ads, etc shut down
+    - Some motels closed
 - 2020 Seattle's loitering law was repealed (to reduce targeting unhoused neighbors)
 - 2023 Multiple shots around Aurora and 101st and nearby blocks. Many neighbors banded together.
     - Led to SOAP law
@@ -20,6 +20,7 @@ If you have more perspective to add, I'd love to hear from you! Here's an auto-g
     - Aurora and 101st/107th was blocked (on the west side of Aurora) by SDOT under the direction of the deputy mayor (the same morning footage of 3 shootings within 2 weeks was sent to local media and many Seattle city officials)
         - SDOT planned to block off other streets and later backed out of that plan
 - 2023 [IsJonAJohn.com](https://isjonajohn.com/faq/) is created
+- 2024-09-24 Seattle [SOAP law](soap-law) is passed
 - 2026 Spike in gunshots around Aurora and 98th
     - Anonymous neighbors in the area built planter boxes and blocked Aurora and 97th/98th/102nd
     - A few days later, SDOT replaced planter boxes on 97th/102nd with (jersey barrier) chicaines
@@ -29,15 +30,23 @@ If you have more perspective to add, I'd love to hear from you! Here's an auto-g
 
 These are organizations that help trafficking victims and/or other related causes (e.g. houselessness) in the Seattle area or more broadly.
 
-- REST (Real Escape from Sex Trade) https://iwantrest.org/impact-reports-and-financials
-- Aurora Commons https://www.auroracommons.org/blog/2025/8/11/2025-annual-report
-- OPS (Organization for Prostitute Survivors) https://www.seattleops.org/survivor-services
+Each organization take different approaches. Many work together. Many disagree with each other.
 
+### Recommended Orgs
 
-- Green Light Project https://www.instagram.com/greenlightprojectsea/
+- REST (Real Escape from Sex Trade) [iwantrest.org](https://iwantrest.org/impact-reports-and-financials)
+- Aurora Commons [auroracommons.org](https://www.auroracommons.org/blog/2025/8/11/2025-annual-report)
+
+### More Orgs
+
+- Rotary Club of the Pacific Northwest Ending Sex Trafficking [rotarypnw.org](https://www.rotarypnw.org/resources)
+- OPS (Organization for Prostitute Survivors) [seattleops.org](https://www.seattleops.org/survivor-services)
+- Green Light Project [instagram.com/greenlightprojectsea](https://www.instagram.com/greenlightprojectsea/)
     - (Not to be confused with other "Green Light Projects")
+    - Current and former sex workers (not just street sex work) that meet people 100% where they're at and provide direct resources. High trust with street sex workers.
 - LIHI (Low Income Housing Institute)
-- LEAD (Let Everyone Advance with Dignity) https://leadkingcounty.org/data-results/
+    - Build and run tiny home villages, including one that's women only
+- LEAD (Let Everyone Advance with Dignity) [leadkingcounty.org](https://leadkingcounty.org/data-results/)
 - The More We Love
 - Cupcake Girls (shutting down)
 - (Domestic violence organizations list from the King County Prosecuting Attorney's Office)[https://kingcounty.gov/en/dept/pao/courts-jails-legal-system/victim-services-resources/victim-advocacy/domestic-violence/organizations]
