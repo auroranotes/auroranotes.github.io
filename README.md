@@ -1,10 +1,29 @@
 # Aurora Notes
 
-This is a collection of what info about human trafficking issues Aurora Ave, based on personal experience, conversations with people in the neighborhood, and conversations with people from organizations like REST, The More We Love, Green Light Project, Seattle administration etc.
+This is a collection of what info about human trafficking issues Aurora Ave and how I think local progress can be made.
 
-There are mistakes and misconceptions here! My perspective has and will change over time. What's currently listed here is just some of the relevant info.
+## What I believe as of June 2026
 
-If you have more perspective to add, I'd love to hear from you! Here's an auto-generated anonymous email you can use to contact me: shy.worm9956@fastmail.com  If the email gets too much spam/hate/etc I may turn it off.
+- The vast majority of sex workers 'advertising' on Aurora Ave from 85th to 145th (the border between Seattle and Shoreline) are trafficked.
+    - Before 2020 the vast majority of sex workers on Aurora were local independents (not trafficked)
+- Sex traffickers / Pimps fighting for turf has increased gun violence around Aurora
+- Increased police presence deters violence and sex work on Aurora Ave but does not solve underling issues (by itself) and increases the chances of harms to others
+- Blocking streets, similar to how 101st street just west of Aurura was blocked...
+    - decreases gun violence in the area
+    - pushes gun violence to nearby areas
+        - increases the base of neighbors who are informed and concerned by exposing them to the issue
+    - decreases sex work in the area
+    - pushes sex work to nearby areas
+        - increases the base of neighbors who are informed and concerned by exposing them to the issue
+    - does not solve underlying issues that lead to sex trafficking
+- Enforcement of the 2024 SOAP law would decrease trafficking
+
+Note: Sex work is not the same as sex trafficking. For example, laws that target only pimps or traffickers decrease sex trafficking but not sex work **and** laws that target only sex workers decreases sex work (whether its done by local independents or people working under a pimp).
+
+### Questions
+
+- How effective are organizations at helping trafficked people leave trafficking?
+- New Zealand's model sounds pretty good... what are the dissenting opinions?
 
 ## Timeline
 
@@ -30,7 +49,7 @@ If you have more perspective to add, I'd love to hear from you! Here's an auto-g
 
 These are organizations that help trafficking victims and/or other related causes (e.g. houselessness) in the Seattle area or more broadly.
 
-Each organization take different approaches. Many work together. Many disagree with each other.
+Each organization takes different approaches. Many work together. Many disagree with each other.
 
 ### Recommended Orgs
 
@@ -58,13 +77,9 @@ Each organization take different approaches. Many work together. Many disagree w
 
 Street sex work on Aurora has been around for decades but (some combination of) CESTA/FOSTA, Seattle's loitering law being repealed, and motels closing led to increased sex trafficking. Increased trafficking led to gun violence as pimps fight for territory.
 
-### "All trafficking is bad"
-
-All human trafficking **is** bad. However, the legal definition would also label a sex worker (or friend, etc) that's helping another sex worker escape from a bad situation across state lines a human trafficker!
-
 ## Citations
 
-If you have evidence for or against anything in this section, please share it! Unfortunately, a lof of what I (think I've) learned is from people's personal experiences.
+If you have evidence for or against anything in this section, please share it! Unfortunately, a lot of what I (think I've) learned is from neighbor's personal experiences.
 
 ### Street sex workers used be Seattle locals
 
@@ -72,7 +87,11 @@ This is based on conversations with a neighbor that lived just off Aurora and us
 
 ## Definitions
 
-Theses are the definitions used on this site. They differ from normal definitions.
+Theses are the definitions used on this site. They may differ from other definitions.
 
 - pimp: someone who recruits street sex workers, employing violence and manipulation. Not to be confused with a body guard.
-- prostitute: a sex worker who advertises on the street
+- street prostitute: a sex worker who advertises on the street
+
+## Contact
+
+If you have more perspective to add, I'd love to hear from you! Here's an anonymous email you can use to contact me: shy.worm9956@fastmail.com  If the email gets too much spam/hate/etc I may turn it off.

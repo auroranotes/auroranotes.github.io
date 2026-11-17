@@ -1,0 +1,2 @@
+- impact-reports/2025_rest_impact_report.pdf https://iwantrest.org/impact-reports-and-financials https://static1.squarespace.com/static/5c915d3a94d71acd181a13a3/t/6938537ed32ebf43e6457b63/1765299083501/2025-Impact-Report.pdf downloaded 2026-06-10 11:39am PT
+- impact-reports/2025_aurora_commons_annual_report.pdf https://www.auroracommons.org/blog/2025/8/11/2025-annual-report https://static1.squarespace.com/static/57e2534fd482e96cd83dfdff/t/689a7daae4a9e07c10c16322/1754955211551/FY25+AR++%282%29.pdf downloaded 2026-06-10 12:21pm PT
